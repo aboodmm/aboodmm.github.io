@@ -1,3 +1,3 @@
 ## Welcome to my page!
 
-| [Summary](https://aboodmm.github.io/) | 3D portfolio | Misc hobbies |
+| [Summary](https://aboodmm.github.io/) | [3D portfolio](portfolio.html) | Misc hobbies |
